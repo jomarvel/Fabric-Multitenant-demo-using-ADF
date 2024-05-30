@@ -12,7 +12,7 @@ The demo is designed to highlight one way in one scenario to build multi-tenant,
 ### Deploy Azure resources
 Please use the Deploy to Azure button to deploy the Azure resources needed for this demo.  All resources should be deployed to the same Azure region. Since this is a demo only, I would also recommend deploying to the same resource group. 
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fgithub.com%2FAzure%2FFabric-Multitenant%2Fblob%2Fmain%2Farm%2520templates%2Fresources_arm_templates.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fjomarvel%2FFabric-Multitenant-demo-using-ADF%2Fmain%2Farm%2520templates%2Fresources_arm_templates.json)
 
 __Paramaters for template that need to be added:__ 
 + Unique lowercase data factory name
