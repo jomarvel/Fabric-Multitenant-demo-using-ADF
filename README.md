@@ -2,7 +2,7 @@
 
 This demo is provided as-is and is not supported in any way by me or Microsoft. Feel free to provide feedback but I can not guarantee that it will be addressed.
 
-The demo is designed to highlight one way in one scenario to build multi-tenant, reusable pipelines using Microsoft Fabric OneLake and Azure Data Factory. This demo will showcase using ADF pipelines to bring in data from 3 different SQL DBs and copy data to OneLake.  When Fabric pipelines are able to [paramterize connections](https://learn.microsoft.com/en-us/fabric/release-plan/data-factory#parameterize-connections), I'll create another repo using only Fabric.  But until that feature release, we will utilize ADF. 
+The demo is designed to highlight one way in one scenario to build multi-tenant, reusable pipelines using Microsoft Fabric OneLake and Azure Data Factory. This demo will showcase using ADF pipelines to bring in data from 3 different SQL DBs and copy data to OneLake.  When Fabric pipelines are able to [paramterize connections](https://learn.microsoft.com/en-us/fabric/release-plan/data-factory#enabling-customers-parameterize-connections), I'll create another repo using only Fabric.  But until that feature release, we will utilize ADF. 
 
 ## Prerequisites
 + An Active Azure Subscription
